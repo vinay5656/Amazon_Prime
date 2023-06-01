@@ -1,0 +1,20 @@
+.navClass {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #acb1d6;
+  color: rgb(175, 199, 164);
+}
+
+.bookingForm {
+  align-self: center;
+  text-align: center;
+}
+
+.pSummary {
+  text-align: center;
+  padding-top: 7.3rem;
+  padding-bottom: 2.1rem;
+  margin-bottom: 0rem;
+  color: #f79540;
+}
